@@ -114,3 +114,16 @@
 # print("min number =", min(a, b, c))
 
 # Task 9 - convertion
+
+# x = bool(input("Your valsue is: "))
+# if x == 0:
+#     x = False
+#
+# elif x == 1:
+#     x = True
+#
+#
+# print("Your value is now: ", x)
+
+# Task 10 - divisible number
+
